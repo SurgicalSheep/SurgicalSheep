@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SurgicalSheep
-- Currently studying Computer Science and engineering
+- Currently developing c# plugins for model-driven apps
 
 <!---
 SurgicalSheep/SurgicalSheep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
